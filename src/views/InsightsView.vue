@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Benchmark guidance</span><h2>Every price case needs a comparable unit, reference period and responsible response owner</h2><p>Industrial teams can compare exposure while preserving the context needed for fair policy and investment decisions.</p></section></template>
